@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/orient-commons-1.7.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/orientdb-core-1.7.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/blueprints-core-2.5.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/orientdb-client-1.7.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/orientdb-graphdb-1.7.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/concurrentlinkedhashmap-lru-1.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/gremlin-java-2.5.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/groovy-1.8.9.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/jna-platform-4.0.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/snappy-java-1.1.0.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/repo/releases/orientdb-community-1.7/lib/gremlin-groovy-2.5.0.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+      <excludeFolder url="file://$MODULE_DIR$/db" />
+      <excludeFolder url="file://$MODULE_DIR$/mnt" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="LevDistCorpa" />
+    <orderEntry type="module" module-name="Tess4J" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/blueprints-core-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/concurrentlinkedhashmap-lru-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/gremlin-java-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/jna-platform-4.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/snappy-java-1.1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/gremlin-groovy-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///usr/share/java/commons-io.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/junit-benchmarks-0.7.2/junit-benchmarks-0.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/stanford-corenlp/stanford-corenlp-3.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/orient-commons-2.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/orientdb-core-2.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/orientdb-client-2.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/orientdb-dist/orientdb-graphdb-2.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jdbm-2.4/jdbm-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/jdbm-2.4/jdbm-2.4-src.zip!/jdbm-2.4/src/main" />
+          <root url="jar://$MODULE_DIR$/lib/jdbm-2.4/jdbm-2.4-src.zip!/jdbm-2.4/src/tests" />
+          <root url="jar://$MODULE_DIR$/lib/jdbm-2.4/jdbm-2.4-src.zip!/jdbm-2.4/src/examples" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="ocrCorpa" />
+    <orderEntry type="library" name="groovy-1.8.6" level="project" />
+    <orderEntry type="library" name="hamcrest" level="project" />
+    <orderEntry type="library" name="junit4" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/mallet-2.0.7/dist/mallet-deps.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/mallet-2.0.7/dist/mallet.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/lib/mallet-2.0.7/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

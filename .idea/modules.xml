@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Archive.iml" filepath="$PROJECT_DIR$/Archive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modules/LevDistCorpa/LevDistCorpa.iml" filepath="$PROJECT_DIR$/Modules/LevDistCorpa/LevDistCorpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modules/Tess4J/Tess4J.iml" filepath="$PROJECT_DIR$/Modules/Tess4J/Tess4J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modules/ocrCorpa/ocrCorpa.iml" filepath="$PROJECT_DIR$/Modules/ocrCorpa/ocrCorpa.iml" />
+    </modules>
+  </component>
+</project>
+

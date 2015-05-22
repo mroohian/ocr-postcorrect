@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<configs>
+  <!-- Tesseract OCR -->
+  <config name="TesseractDataPath" value="/home/reza/workspace/Archive/Modules/Tess4J/tessdata/" />
+  <config name="TesseractLanguage" value="eng" />
+
+  <!-- Archive reader -->
+  <config name="ArchiveReaderPath" value="/home/reza/workspace/Archive/mnt/dump/archive/" />
+  <config name="ArchiveReaderBaseFolder" value="en/health" />
+
+  <!-- Standford POS tagger -->
+  <config name="StanfordPOSTaggerModelPath" value="/home/reza/workspace/Archive/data/models/" />
+
+  <!-- OCR Courpus -->
+  <config name="OCRCorpusPath" value="/home/reza/Desktop/ocrCorpus/" />
+</configs>

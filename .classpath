@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/orient-commons-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/orientdb-core-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/blueprints-core-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/orientdb-client-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/orientdb-graphdb-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/concurrentlinkedhashmap-lru-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/gremlin-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/groovy-1.8.9.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/jna-platform-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/snappy-java-1.1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/reza/Desktop/repo/releases/orientdb-community-1.7/lib/gremlin-groovy-2.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
